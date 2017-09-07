@@ -1,0 +1,36 @@
+## Title: Pointificator
+## APIVersion: 100020
+## Author: @Olivierko
+## SavedVariables: PointificatorSavedVariables
+## OptionalDependsOn: LibAddonMenu-2.0
+## Version: 3.7
+
+lib/LAM/LibStub.lua
+lib/LAM/LibAddonMenu-2.0.lua
+lib/LAM/controls/panel.lua
+lib/LAM/controls/submenu.lua
+lib/LAM/controls/button.lua
+lib/LAM/controls/checkbox.lua
+lib/LAM/controls/colorpicker.lua
+lib/LAM/controls/custom.lua
+lib/LAM/controls/description.lua
+lib/LAM/controls/dropdown.lua
+lib/LAM/controls/editbox.lua
+lib/LAM/controls/header.lua
+lib/LAM/controls/slider.lua
+lib/LAM/controls/texture.lua
+lib/LAM/controls/iconpicker.lua
+
+lib/core.lua
+lib/ui.lua
+lib/history.lua
+lib/statistics/main.lua
+lib/statistics/overview.lua
+lib/statistics/combat.lua
+lib/statistics/currency.lua
+lib/statistics/lifetime.lua
+lib/statistics/history.lua
+lib/settings.lua
+Pointificator.lua
+lib/events.lua
+bindings.xml
